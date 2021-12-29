@@ -1,4 +1,4 @@
-# Overview
+# Overview...
 This demo show how to implement a continuous delivery pipeline supporting Oracle database changes (DDL) and database business logic (PL/SQL).
 
 # Requirements
